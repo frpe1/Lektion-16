@@ -829,12 +829,12 @@ GameObject:
   - component: {fileID: 619660653}
   - component: {fileID: 619660652}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Blue Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &619660652
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1069,12 +1069,12 @@ GameObject:
   - component: {fileID: 653249977}
   - component: {fileID: 653249976}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Green Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &653249975
 Transform:
   m_ObjectHideFlags: 0
@@ -1466,7 +1466,7 @@ GameObject:
   - component: {fileID: 938914827}
   - component: {fileID: 938914826}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: Red Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1743,12 +1743,12 @@ GameObject:
   - component: {fileID: 1112214026}
   - component: {fileID: 1112214025}
   m_Layer: 0
-  m_Name: Cube (3)
+  m_Name: White Box
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1112214024
 Transform:
   m_ObjectHideFlags: 0
